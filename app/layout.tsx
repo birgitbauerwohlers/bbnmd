@@ -3,7 +3,7 @@ import '../styles/globals.css'
 
 export const metadata: Metadata = {
   title: 'Birgit Bauer Wöhlers — Private Advisory',
-  description: 'Cellular Optimization · Advanced Aesthetics · Wellness & Longevity Design. A private advisory for those shaping how we live, perform, and evolve.',
+  description: 'Strategic advisor in longevity science, cellular optimization, and integrative health. Private practice serving individuals, luxury hospitality, and institutional clients.',
   robots: 'index, follow',
 }
 
